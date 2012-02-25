@@ -1,0 +1,3 @@
+#!/bin/bash
+
+qemu -m 32 -net none -hda minix204_l2.raw -boot c # -full-screen &
