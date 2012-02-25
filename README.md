@@ -1,6 +1,4 @@
-elka
-===
-Projekty ze studiow - Informatyka EiTI
+# Projekty ze studiow - Informatyka EiTI
 
 ## semestr 1
 ### PRI - Podstawy Programowania
