@@ -1,0 +1,16 @@
+all : asd asd3
+
+asd : test.cc
+	g++ -O2 -D _SUNOS test.cc /home/common/dyd/aisdi/hash/timer.cc /home/common/dyd/aisdi/tests/ltest_hash.so -o asd 
+asd3 : test.cc
+	g++ -O2 -D _SUNOS test.cc /home/common/dyd/aisdi/hash/timer.cc /home/common/dyd/aisdi/tests/ltest_hash3.so -o asd3 
+	
+del :
+	rm asd
+	rm asd3
+debug :
+	g++ -g -D _SUNOS test.cc /home/common/dyd/aisdi/hash/timer.cc /home/common/dyd/aisdi/tests/ltest_hash.so -o asd_debug 
+	gdb asd_debug
+
+view:
+	lynx /home/common/dyd/aisdi/hash/info/index.html

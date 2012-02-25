@@ -1,0 +1,22 @@
+Legia Warszawa
+Wisla Krakow
+GKS Belchatow
+Jagiellonia Bialystok
+Polonia Warszawa
+Lech Poznan
+
+Legia Warszawa-Lech Poznan	0-1	1
+Wisla Krakow-Polonia Warszawa	1-1	1
+GKS Belchatow-Jagiellonia Bialystok	3-0	1
+Jagiellonia Bialystok-Lech Poznan	3-1	2
+Polonia Warszawa-GKS Belchatow	2-0	2
+Legia Warszawa-Wisla Krakow	3-2	2
+Wisla Krakow-Lech Poznan	0-2	3
+GKS Belchatow-Legia Warszawa	0-3	3
+Jagiellonia Bialystok-Polonia Warszawa	3-3	3
+Polonia Warszawa-Lech Poznan	4-3	4
+Legia Warszawa-Jagiellonia Bialystok	2-3	4
+Wisla Krakow-GKS Belchatow	1-1	4
+GKS Belchatow-Lech Poznan	0-0	5
+Jagiellonia Bialystok-Wisla Krakow	3-1	5
+Polonia Warszawa-Legia Warszawa	1-1	5

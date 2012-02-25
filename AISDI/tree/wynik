@@ -1,0 +1,1883 @@
+AISDI tree: wchodze do funkcji main.
+Testy uzytkownika
+2, Merry
+4, Magdalena
+8, Korwin
+Testy lab tree
+
+MSG   : Wstawiam i sprawdzam 1 elementow.Wstawiam element: 30,30
+
+MSG   : Wstawiam i sprawdzam 2 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+
+MSG   : Wstawiam i sprawdzam 3 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+
+MSG   : Wstawiam i sprawdzam 4 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+
+MSG   : Wstawiam i sprawdzam 5 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+
+MSG   : Wstawiam i sprawdzam 6 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+
+MSG   : Wstawiam i sprawdzam 7 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+
+MSG   : Wstawiam i sprawdzam 8 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+
+MSG   : Wstawiam i sprawdzam 9 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+Wstawiam element: 45,45
+
+MSG   : Wstawiam i sprawdzam 10 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+Wstawiam element: 45,45
+Wstawiam element: 37,37
+
+MSG   : Wstawiam i sprawdzam 11 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+Wstawiam element: 45,45
+Wstawiam element: 37,37
+Wstawiam element: 55,55
+
+MSG   : Wstawiam i sprawdzam 12 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+Wstawiam element: 45,45
+Wstawiam element: 37,37
+Wstawiam element: 55,55
+Wstawiam element: 33,33
+
+MSG   : Wstawiam i sprawdzam 13 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+Wstawiam element: 45,45
+Wstawiam element: 37,37
+Wstawiam element: 55,55
+Wstawiam element: 33,33
+Wstawiam element: 40,40
+
+MSG   : Wstawiam i sprawdzam 14 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+Wstawiam element: 45,45
+Wstawiam element: 37,37
+Wstawiam element: 55,55
+Wstawiam element: 33,33
+Wstawiam element: 40,40
+Wstawiam element: 50,50
+
+MSG   : Wstawiam i sprawdzam 15 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+Wstawiam element: 45,45
+Wstawiam element: 37,37
+Wstawiam element: 55,55
+Wstawiam element: 33,33
+Wstawiam element: 40,40
+Wstawiam element: 50,50
+Wstawiam element: 60,60
+
+MSG   : Wstawiam i zmieniam 1 elementow.Wstawiam element: 30,30
+Wstawiam element: 30,
+
+MSG   : Wstawiam i zmieniam 2 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 30,
+Wstawiam element: 15,
+
+MSG   : Wstawiam i zmieniam 3 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+
+MSG   : Wstawiam i zmieniam 4 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+
+MSG   : Wstawiam i zmieniam 5 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+
+MSG   : Wstawiam i zmieniam 6 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+
+MSG   : Wstawiam i zmieniam 7 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+
+MSG   : Wstawiam i zmieniam 8 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+
+MSG   : Wstawiam i zmieniam 9 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+Wstawiam element: 45,45
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+
+MSG   : Wstawiam i zmieniam 10 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+Wstawiam element: 45,45
+Wstawiam element: 37,37
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+
+MSG   : Wstawiam i zmieniam 11 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+Wstawiam element: 45,45
+Wstawiam element: 37,37
+Wstawiam element: 55,55
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+
+MSG   : Wstawiam i zmieniam 12 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+Wstawiam element: 45,45
+Wstawiam element: 37,37
+Wstawiam element: 55,55
+Wstawiam element: 33,33
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+
+MSG   : Wstawiam i zmieniam 13 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+Wstawiam element: 45,45
+Wstawiam element: 37,37
+Wstawiam element: 55,55
+Wstawiam element: 33,33
+Wstawiam element: 40,40
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+
+MSG   : Wstawiam i zmieniam 14 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+Wstawiam element: 45,45
+Wstawiam element: 37,37
+Wstawiam element: 55,55
+Wstawiam element: 33,33
+Wstawiam element: 40,40
+Wstawiam element: 50,50
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+
+MSG   : Wstawiam i zmieniam 15 elementow.Wstawiam element: 30,30
+Wstawiam element: 15,15
+Wstawiam element: 20,20
+Wstawiam element: 18,18
+Wstawiam element: 25,25
+Wstawiam element: 7,7
+Wstawiam element: 2,2
+Wstawiam element: 10,10
+Wstawiam element: 45,45
+Wstawiam element: 37,37
+Wstawiam element: 55,55
+Wstawiam element: 33,33
+Wstawiam element: 40,40
+Wstawiam element: 50,50
+Wstawiam element: 60,60
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+
+MSG   : Wstawiam i kasuje 1 elementow.Wstawiam element: 30,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 30, wartosc: 30
+
+MSG   : Wstawiam i kasuje 2 elementow.Wstawiam element: 30,
+Wstawiam element: 15,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 30, wartosc: 30
+Wstawiam element: 30,
+Wstawiam element: 15,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 15, wartosc: 15
+
+MSG   : Wstawiam i kasuje 3 elementow.Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 30, wartosc: 30
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 15, wartosc: 15
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 20, wartosc: 20
+
+MSG   : Wstawiam i kasuje 4 elementow.Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 30, wartosc: 30
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 15, wartosc: 15
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 20, wartosc: 20
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 18, wartosc: 18
+
+MSG   : Wstawiam i kasuje 5 elementow.Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 30, wartosc: 30
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 15, wartosc: 15
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 20, wartosc: 20
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 18, wartosc: 18
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 25, wartosc: 25
+
+MSG   : Wstawiam i kasuje 6 elementow.Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 30, wartosc: 30
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 15, wartosc: 15
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 20, wartosc: 20
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 18, wartosc: 18
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 25, wartosc: 25
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 7, wartosc: 7
+
+MSG   : Wstawiam i kasuje 7 elementow.Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 30, wartosc: 30
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 15, wartosc: 15
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 20, wartosc: 20
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 18, wartosc: 18
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 25, wartosc: 25
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 7, wartosc: 7
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 2, wartosc: 2
+
+MSG   : Wstawiam i kasuje 8 elementow.Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 30, wartosc: 30
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 15, wartosc: 15
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 20, wartosc: 20
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 18, wartosc: 18
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 25, wartosc: 25
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 7, wartosc: 7
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 2, wartosc: 2
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 10, wartosc: 10
+
+MSG   : Wstawiam i kasuje 9 elementow.Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Erase (iterator): usuwam element z dwojka dzieci - klucz: 30, wartosc: 30
+Erase (iterator): znalazlem element do zamiany - klucz: 45, wartosc: 45
+Erase (iterator): wartosci elementow po zamianie - tmp: (45,45), node (45,45)
+tmp->right: 0tmp->parent->left: 0x2bfb8
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 45, wartosc: 45
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 15, wartosc: 15
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 20, wartosc: 20
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 18, wartosc: 18
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 25, wartosc: 25
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 7, wartosc: 7
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 2, wartosc: 2
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 10, wartosc: 10
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 45, wartosc: 45
+
+MSG   : Wstawiam i kasuje 10 elementow.Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Erase (iterator): usuwam element z dwojka dzieci - klucz: 30, wartosc: 30
+Erase (iterator): znalazlem element do zamiany - klucz: 37, wartosc: 37
+Erase (iterator): wartosci elementow po zamianie - tmp: (37,37), node (37,37)
+tmp->right: 0tmp->parent->left: 0
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 37, wartosc: 37
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 15, wartosc: 15
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 20, wartosc: 20
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 18, wartosc: 18
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 25, wartosc: 25
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 7, wartosc: 7
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 2, wartosc: 2
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 10, wartosc: 10
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 45, wartosc: 45
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 37, wartosc: 37
+
+MSG   : Wstawiam i kasuje 11 elementow.Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Erase (iterator): usuwam element z dwojka dzieci - klucz: 30, wartosc: 30
+Erase (iterator): znalazlem element do zamiany - klucz: 37, wartosc: 37
+Erase (iterator): wartosci elementow po zamianie - tmp: (37,37), node (37,37)
+tmp->right: 0tmp->parent->left: 0
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 37, wartosc: 37
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 15, wartosc: 15
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 20, wartosc: 20
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 18, wartosc: 18
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 25, wartosc: 25
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 7, wartosc: 7
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 2, wartosc: 2
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 10, wartosc: 10
+Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 45, wartosc: 45
+
+ERR 22: Nie znalazlem elementu (i=11, key=55, check=11)
+ERR 23: Odczytano zla wartosc (i=11, key=55, check=11)
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 37, wartosc: 37
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 55, wartosc: 55
+
+ERR 26: Nie zwolniono calej pamieci
+MSG   : Wstawiam i kasuje 12 elementow.Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Erase (iterator): usuwam element z dwojka dzieci - klucz: 30, wartosc: 30
+Erase (iterator): znalazlem element do zamiany - klucz: 33, wartosc: 33
+Erase (iterator): wartosci elementow po zamianie - tmp: (33,33), node (33,33)
+tmp->right: 0tmp->parent->left: 0
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 33, wartosc: 33
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 15, wartosc: 15
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 20, wartosc: 20
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 18, wartosc: 18
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 25, wartosc: 25
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 7, wartosc: 7
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 2, wartosc: 2
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 10, wartosc: 10
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 45, wartosc: 45
+
+ERR 22: Nie znalazlem elementu (i=12, key=55, check=11)
+ERR 23: Odczytano zla wartosc (i=12, key=55, check=11)
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 37, wartosc: 37
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 55, wartosc: 55
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 33, wartosc: 33
+
+ERR 26: Nie zwolniono calej pamieci
+MSG   : Wstawiam i kasuje 13 elementow.Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Erase (iterator): usuwam element z dwojka dzieci - klucz: 30, wartosc: 30
+Erase (iterator): znalazlem element do zamiany - klucz: 33, wartosc: 33
+Erase (iterator): wartosci elementow po zamianie - tmp: (33,33), node (33,33)
+tmp->right: 0tmp->parent->left: 0
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 33, wartosc: 33
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 15, wartosc: 15
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 20, wartosc: 20
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 18, wartosc: 18
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 25, wartosc: 25
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 7, wartosc: 7
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 2, wartosc: 2
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 10, wartosc: 10
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 45, wartosc: 45
+
+ERR 22: Nie znalazlem elementu (i=13, key=55, check=11)
+ERR 23: Odczytano zla wartosc (i=13, key=55, check=11)
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 37, wartosc: 37
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 55, wartosc: 55
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 33, wartosc: 33
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 40, wartosc: 40
+
+ERR 26: Nie zwolniono calej pamieci
+MSG   : Wstawiam i kasuje 14 elementow.Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Erase (iterator): usuwam element z dwojka dzieci - klucz: 30, wartosc: 30
+Erase (iterator): znalazlem element do zamiany - klucz: 33, wartosc: 33
+Erase (iterator): wartosci elementow po zamianie - tmp: (33,33), node (33,33)
+tmp->right: 0tmp->parent->left: 0
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 33, wartosc: 33
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 15, wartosc: 15
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 20, wartosc: 20
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 18, wartosc: 18
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 25, wartosc: 25
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 7, wartosc: 7
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 2, wartosc: 2
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 10, wartosc: 10
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 45, wartosc: 45
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 37, wartosc: 37
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 55, wartosc: 55
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 33, wartosc: 33
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 40, wartosc: 40
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 50, wartosc: 50
+
+ERR 26: Nie zwolniono calej pamieci
+MSG   : Wstawiam i kasuje 15 elementow.Wstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+Erase (iterator): usuwam element z dwojka dzieci - klucz: 30, wartosc: 30
+Erase (iterator): znalazlem element do zamiany - klucz: 33, wartosc: 33
+Erase (iterator): wartosci elementow po zamianie - tmp: (33,33), node (33,33)
+tmp->right: 0tmp->parent->left: 0
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 33, wartosc: 33
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 15, wartosc: 15
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 20, wartosc: 20
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 18, wartosc: 18
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 25, wartosc: 25
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 7, wartosc: 7
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 2, wartosc: 2
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 10, wartosc: 10
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 45, wartosc: 45
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 37, wartosc: 37
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 55, wartosc: 55
+
+ERR 22: Nie znalazlem elementu (i=15, key=60, check=15)
+ERR 23: Odczytano zla wartosc (i=15, key=60, check=15)
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 33, wartosc: 33
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 40, wartosc: 40
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 50, wartosc: 50
+
+ERR 26: Nie zwolniono calej pamieciWstawiam element: 30,
+Wstawiam element: 15,
+Wstawiam element: 20,
+Wstawiam element: 18,
+Wstawiam element: 25,
+Wstawiam element: 7,
+Wstawiam element: 2,
+Wstawiam element: 10,
+Wstawiam element: 45,
+Wstawiam element: 37,
+Wstawiam element: 55,
+Wstawiam element: 33,
+Wstawiam element: 40,
+Wstawiam element: 50,
+Wstawiam element: 60,
+Erase (iterator): dane elementu, ktory zaraz usune - klucz: 60, wartosc: 60
+
+ERR 26: Nie zwolniono calej pamieci
+MSG   : Porownanie pustych slownikow.Porownanie informacyjne.
+Porownanie strukturalne.
+Porownanie informacyjne.
+Porownanie strukturalne.
+Wstawiam element: 100,100
+Wstawiam element: 110,110
+
+MSG   : Wstawiam i porownuje 1elementow.Wstawiam element: 30,
+Wstawiam element: 30,30
+Porownanie informacyjne.
+Porownanie strukturalne.
+Porownanie informacyjne.
+Porownanie strukturalne.
+Porownanie informacyjne.
+Porownanie strukturalne.
+Porownanie informacyjne.
+
+ERR 46: Slowniki powinny byc i. rozne, i=1Porownanie strukturalne.
